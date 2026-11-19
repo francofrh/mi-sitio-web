@@ -1,0 +1,44 @@
+
+form {
+    background-color: #b2d6a96b;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid #2563eb;
+    width: 400px;
+}
+
+
+.contenedor {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #cccccc;
+}
+
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+.miClase {
+    color: #2563eb;
+    font-weight: bold;
+}
+
+
+#miID {
+    background-color: #e0f2fe69;
+    padding: 10px;
+}
+body {
+            background-color: #97b8d491;
+        }
+h1 {
+            color: #1e3a8a;
+            text-align: center;
+        }
+p {
+            color: #333333;
+            text-align: center;
+        }
